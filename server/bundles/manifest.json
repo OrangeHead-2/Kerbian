@@ -1,0 +1,11 @@
+```json
+{
+  "latest_version": "1.0.4",
+  "bundles": {
+    "1.0.1": "https://cdn.example.com/kerbian/bundle_1.0.1.py",
+    "1.0.2": "https://cdn.example.com/kerbian/bundle_1.0.2.py",
+    "1.0.3": "https://cdn.example.com/kerbian/bundle_1.0.3.py",
+    "1.0.4": "https://cdn.example.com/kerbian/bundle_1.0.4.py"
+  }
+}
+```
