@@ -1,0 +1,16 @@
+[
+  {
+    "name": "hello",
+    "url": "https://github.com/community/kerbiancore-plugin-hello/raw/main/hello.py",
+    "description": "A sample plugin that says hello.",
+    "author": "community",
+    "tags": ["sample", "hello"]
+  },
+  {
+    "name": "greetplus",
+    "url": "https://github.com/community/kerbiancore-plugin-greetplus/raw/main/greetplus.py",
+    "description": "Sends advanced greetings.",
+    "author": "opensource-dev",
+    "tags": ["greet", "example"]
+  }
+]
