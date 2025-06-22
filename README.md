@@ -1,6 +1,6 @@
-# KerbianCore
+# Kerbian
 
-KerbianCore is a robust, secure, and scalable Python toolkit for mobile app development automation, profiling, testing, CI/CD, plugin management, and more.
+Kerbian is a robust, secure, and scalable Python toolkit for mobile app development automation, profiling, testing, CI/CD, plugin management, and more.
 
 ## Features
 
